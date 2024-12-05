@@ -1,5 +1,6 @@
 # Site Build Settings
 repository: familyresources/familyresources.study
+url: "https://familyresources.github.io"
 
 # jekyll-paginate configuration
 paginate:            5
