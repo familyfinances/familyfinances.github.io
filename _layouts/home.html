@@ -7,30 +7,16 @@ title: Home
   <!-- Header Section -->
   <header class="homepage-header">
     <h1>Welcome to the Family<br>Resources Project</h1>
-    <p>What difference does cash support for children make? Family Resources is a collaborative project with academics at the University of York, London School of Economics and Child Poverty Action Group. We will investigate the impact of the Scottish Child Payment on financial and emotional wellbeing and employment using a comparative, mixed-methods approach.
+    <p>What difference does cash support for children make? Family Resources is a collaborative project with academics at the University of York, London School of Economics and Child Poverty Action Group. We will investigate the impact of the Scottish Child Payment on financial and emotional wellbeing and employment using a comparative, mixed-methods approach. Our project is funded by the Aberdeen Financial Fairness Trust.
     </p>
   </header>
-
-  <!-- Featured Section 
-  <section class="homepage-featured">
-    <h2>Read on</h2>
-    <div class="featured-grid">
-      {% for post in site.posts limit:3 %}
-        <article class="featured-item">
-          <a href="{{ post.url }}" class="featured-link">
-            <div class="featured-image" {% if post.image %}style="background-image: url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}></div>
-            <h3>{{ post.title }}</h3>
-          </a>
-        </article>
-      {% endfor %}
-    </div>
-  </section>-->
 
   <!-- Featured Section -->
   <section class="homepage-featured">
     <h2>Our latest</h2>
     <div class="featured-grid">
       {% for post in site.posts limit:3 %}
+      {% if post.featured %}
         <article class="featured-item">
           <div class="featured-category">{{ post.featured | capitalize }}</div>
           <h3 class="featured-title">
@@ -41,31 +27,7 @@ title: Home
             <p class="featured-author">{{ post.author }}</p>
           {% endif %}
         </article>
+        {% endif %}
       {% endfor %}
     </div>
   </section>
-  
-
-
-
-  <!-- Publications Section (remove this? or try and change it to something else?) 
-  <section class="homepage-publications">
-    <h2>Recent Publications</h2>
-    <ul class="publications-list">
-      {% for post in site.posts limit:5 %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-          <span class="publication-date">{{ post.date | date: "%B %d, %Y" }}</span>
-        </li>
-      {% endfor %}
-    </ul>
-  </section>
--->
-  <!-- Call-to-Action 
-  <section class="homepage-cta">
-    <h2>Get Involved</h2>
-    <p>Learn how you can contribute to our research and outreach efforts.</p>
-    <a href="/get-involved" class="cta-button">Take Part</a>
-  </section>
-</div>
--->

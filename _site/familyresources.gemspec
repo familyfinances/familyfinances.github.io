@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["james.baraniak@outlook.com"]
 
   spec.summary       = "Family Resources is a collaborative project with academics at the University of York, London School of Economics and Child Poverty Action Group"
-  spec.homepage      = "https://github.com/"
+  spec.homepage      = "https://familyresources.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|CHANGELOG)!i) }
