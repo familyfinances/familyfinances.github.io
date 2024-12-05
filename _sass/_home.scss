@@ -1,0 +1,215 @@
+.homepage {
+  font-family: "Arial", sans-serif;
+
+  /* Header Section */
+  .homepage-header {
+    text-align: left;
+    padding: 40px 20px;
+    background-color: $colour3;
+    color: $colour1;
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 1.2rem;
+      color: $colour8;
+    }
+  }
+
+  /* Featured Section (Read on). Come back to this bit, need to fix the layout 
+  .homepage-featured {
+    padding: 40px 20px;
+    background-color: $colour3;
+
+    h2 {
+      text-align: center;
+      font-size: 2rem;
+      margin-bottom: 20px;
+      color: $colour1; 
+    }
+
+    .featured-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+    }
+
+    .featured-item {
+      border: 1px solid $colour5;
+      border-radius: 8px;
+      overflow: hidden;
+      background-color: $colour3;
+      transition: transform 0.3s ease;
+
+      &:hover {
+        transform: scale(1.03);
+      }
+
+      .featured-link {
+        display: block;
+        text-decoration: none;
+        color: inherit;
+
+        .featured-image {
+          height: 200px;
+          background-size: cover;
+          background-position: center;
+        }
+
+        h3 {
+          padding: 15px;
+          font-size: 1.5rem;
+          color: $colour1;
+        }
+      }
+    }
+  }
+    */
+    .homepage-featured {
+      padding: 40px 20px;
+      background-color: $colour3; // Background color for the section
+    
+      h2 {
+        text-align: center;
+        font-size: 2rem;
+        margin-bottom: 20px;
+        color: $colour1; // Title color
+      }
+    
+      .featured-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); // Responsive grid layout
+        gap: 20px;
+      }
+    
+      .featured-item {
+        background-color: white; // Background for each item
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 5px 6px -6px #bbb; // Subtle shadow for depth
+        transition: transform 0.3s ease;
+    
+        &:hover {
+          transform: translateY(-5px); // Slight lift on hover
+        }
+    
+        .featured-category {
+          display: inline-block;
+          background-color: $colour7;
+          color: $colour1; 
+          font-weight: bold;
+          font-size: 0.9rem;
+          padding: 5px 10px;
+          border-radius: 4px;
+          margin-bottom: 10px;
+          text-transform: uppercase;
+        }
+    
+        .featured-title {
+          font-size: 1.4rem;
+          font-weight: bold;
+          color: $colour1; 
+          margin: 10px 0;
+          
+          a { 
+            text-decoration: none;
+          }
+          
+        }
+    
+        .featured-meta {
+          font-size: 0.9rem;
+          color: $colour2; 
+          margin-bottom: 5px;
+        }
+    
+        .featured-author {
+          font-size: 0.9rem;
+          color: $colour2; 
+        }
+      }
+    }
+    
+    
+/* Publications Section */
+  .homepage-publications {
+    padding: 40px 20px;
+    background-color: white;
+
+    h2 {
+      color: $colour1;
+      text-align: center;
+      font-size: 2rem;
+      margin-bottom: 20px;
+    }
+
+    .publications-list {
+      list-style: none;
+      padding: 0;
+      max-width: 800px;
+      margin: 0 auto;
+
+      li {
+        padding: 10px 0;
+        border-bottom: 1px solid $colour5;
+
+        &:last-child {
+          border-bottom: none;
+        }
+
+        a {
+          font-size: 1.2rem;
+          color: $colour2;
+          text-decoration: none;
+
+          &:hover {
+            text-decoration: none;
+          }
+        }
+
+        .publication-date {
+          display: block;
+          font-size: 0.9rem;
+          color: #666;
+          margin-top: 5px;
+        }
+      }
+    }
+  }
+
+   /* Call-to-Action Section */
+  .homepage-cta {
+    padding: 40px 20px;
+    background-color: $colour3;
+    text-align: center;
+
+    h2 {
+      color: $colour1; 
+      font-size: 2rem;
+      margin-bottom: 15px;
+    }
+
+    p {
+      color: $colour2; 
+      font-size: 1.2rem;
+      margin-bottom: 20px;
+    }
+
+    .cta-button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: $colour1;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+
+      &:hover {
+        background-color: $colour2;
+      }
+    }
+  }
+}

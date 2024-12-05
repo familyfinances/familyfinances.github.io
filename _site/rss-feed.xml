@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Family Resources</title>
+		<description>A collaborative project with academics at the University of York, London School of Economics and Child Poverty Action Group</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Roundtable: Scottish Child Payment</title>
+				
+					<dc:creator>the Family Resources team</dc:creator>
+				
+				
+					<description>
+</description>
+				
+				<pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/scottish-roundtable</link>
+				<guid isPermaLink="true">http://localhost:4000/scottish-roundtable</guid>
+			</item>
+		
+			<item>
+				<title>About us</title>
+				
+					<dc:creator></dc:creator>
+				
+				
+					<description>&lt;p&gt;What difference does cash support for children make? Family Resources is a collaborative project with academics at the University of York, London School of Economics and Child Poverty Action Group. We will investigate the impact of the Scottish Child Payment on financial and emotional wellbeing and employment using a comparative, mixed-methods approach.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/about-us</link>
+				<guid isPermaLink="true">http://localhost:4000/about-us</guid>
+			</item>
+		
+			<item>
+				<title>What Scotland’s policies can teach Westminster about fighting poverty</title>
+				
+					<dc:creator>Ruth Patrick, Kate Andersen, Kitty Stewart and Emma Tominey</dc:creator>
+				
+				
+					<description>&lt;p&gt;&lt;strong&gt;There are new progressive anti-poverty policies in place in the UK but for much of the population, these are not accessible. Financial support should be based on the evidence and should apply to all those needing support – regardless of where they reside.&lt;/strong&gt;&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+				<link>http://localhost:4000/scotland-policy-westminster</link>
+				<guid isPermaLink="true">http://localhost:4000/scotland-policy-westminster</guid>
+			</item>
+		
+	</channel>
+</rss>
