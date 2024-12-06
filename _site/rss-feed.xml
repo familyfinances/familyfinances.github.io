@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Family Resources</title>
+		<title>Family Finances</title>
 		<description>A collaborative project with academics at the University of York, London School of Economics and Child Poverty Action Group</description>
 		<link></link>
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +23,7 @@
 			<item>
 				<title>Roundtable: Scottish Child Payment</title>
 				
-					<dc:creator>the Family Resources team</dc:creator>
+					<dc:creator></dc:creator>
 				
 				
 					<description>

@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "familyresources"
+  spec.name          = "familyfinances"
   spec.version       = "2.0.0"
   spec.authors       = ["JamesBaraniak"]
   spec.email         = ["james.baraniak@outlook.com"]
 
-  spec.summary       = "Family Resources is a collaborative project with academics at the University of York, London School of Economics and Child Poverty Action Group"
-  spec.homepage      = "https://familyresources.github.io"
+  spec.summary       = "Family Finances is a collaborative project with academics at the University of York, London School of Economics and Child Poverty Action Group"
+  spec.homepage      = "https://familyfinances.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|CHANGELOG)!i) }

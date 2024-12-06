@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    familyresources (2.0.0)
+    familyfinances (2.0.0)
       jekyll (~> 4.2)
       jekyll-feed (~> 0.6)
       jekyll-paginate (~> 1.1)
@@ -85,7 +85,7 @@ PLATFORMS
   arm64-darwin-24
 
 DEPENDENCIES
-  familyresources!
+  familyfinances!
 
 BUNDLED WITH
    2.3.7
