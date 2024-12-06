@@ -1,6 +1,6 @@
 # Site Build Settings
-repository: familyresources/familyresources.study
-url: "https://familyresources.github.io"
+repository: familyfinances/familyfinances.github.io.git
+url: "https://familyfinances.github.io"
 future: true
 
 # jekyll-paginate configuration
@@ -13,9 +13,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Family Resources"
+title:		           "Family Finances"
 description:	       "A collaborative project with academics at the University of York, London School of Economics and Child Poverty Action Group"
-author:              "family-resources"
+author:              "family-finances"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

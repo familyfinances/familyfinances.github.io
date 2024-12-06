@@ -4,7 +4,7 @@ title: About us
 permalink: /about-us/
 ---
 
-What difference does cash support for children make? Family Resources is a collaborative project with academics at the University of York, London School of Economics and Child Poverty Action Group. We will investigate the impact of the Scottish Child Payment on financial and emotional wellbeing and employment using a comparative, mixed-methods approach. Our project is funded by the Aberdeen Financial Fairness Trust.
+What difference does cash support for children make? Family Finances is a collaborative project with academics at the University of York, London School of Economics and Child Poverty Action Group. We will investigate the impact of the Scottish Child Payment on financial and emotional wellbeing and employment using a comparative, mixed-methods approach. Our project is funded by the Aberdeen Financial Fairness Trust.
 
 
 <div class="info-box">
