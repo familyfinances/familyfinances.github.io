@@ -1,2 +1,0 @@
-** README ** 
-Family Finances is a collaborative project with academics at the University of York, London School of Economics and Child Poverty Action Group. Our project is funded by the Aberdeen Financial Fairness Trust.

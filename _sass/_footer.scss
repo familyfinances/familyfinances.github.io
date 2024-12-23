@@ -79,5 +79,10 @@
     }
   }
 }
-
+@media (max-width: $container-width) {
+  .footer-logo {
+    max-width: 150px; 
+    height: auto;
+  }
+}
 
