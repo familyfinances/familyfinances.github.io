@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["JamesBaraniak"]
   spec.email         = ["james.baraniak@outlook.com"]
 
-  spec.summary       = "Family Finances is a collaborative project with academics at the University of York, London School of Economics and Child Poverty Action Group"
+  spec.summary       = "Family Finances is a collaborative project with academics and policy partners at the University of York, the London School of Economics, and the Child Poverty Action Group."
   spec.homepage      = "https://familyfinances.github.io"
   spec.license       = "MIT"
 

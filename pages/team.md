@@ -5,7 +5,7 @@ permalink: /about-us/team/
 ---
 
 <section class="team-section">
-  <p>The project is made up of researchers from across the UK.</p>
+  <p>The project is made up of researchers and policy partners from across the UK.</p>
   <div class="team-grid">
     {% for member in site.data.team %}
       <div class="team-member">
