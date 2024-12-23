@@ -1,23 +1,4 @@
-/* @mixin delta-footer($color, $transition){ 
-  -webkit-transition: $transition;
-  -o-transition: $transition;
-  -ms-transition: $transition;
-  -moz-transition: $transition;
-  transition: $transition;
-  &:hover{ 
-    color: $color;
-  }
-} 
-*/ 
-
 /* footer styling */ 
-.footer-menu {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap; /* Ensures wrapping on smaller screens */
-  gap: 15px; /* Spacing between menu items */
-}
-
 .footer {
   background: $colour7;
   color: $colour1;
@@ -80,8 +61,8 @@
   }
 }
 @media (max-width: $container-width) {
-  .footer-logo {
-    max-width: 150px; 
+  .footer-logos {
+    max-width: 95vw; 
     height: auto;
   }
 }
