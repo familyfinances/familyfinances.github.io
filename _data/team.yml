@@ -1,28 +1,35 @@
 - name: Emma Tominey
-  affiliation: Professor of Economics, Univeristy of York
+  position: Professor of Economics,
+  affiliation: Univeristy of York
   photo: EmmaTominey.jpg
 
 - name: John Dickie
-  affiliation: Director, CPAG in Scotland  
+  position: Director,
+  affiliation: CPAG in Scotland  
   photo: JohnDickie.jpg
 
 - name: Kate Andersen
-  affiliation: Research Fellow, University of York
+  position: Research Fellow,
+  affiliation: University of York
   photo: KateAndersen.jpg
 
 - name: Kitty Stewart
-  affiliation: Professor of Social Policy, London School of Economics
+  position: Professor of Social Policy,
+  affiliation: London School of Economics
   photo: kittystewart.png
 
 - name: Maria Marshall
-  affiliation: Policy Officer, CPAG in Scotland 
+  position: Policy Officer,
+  affiliation: CPAG in Scotland 
   photo: MariaMarshall.jpg
 
 - name: Ruth Patrick
-  affiliation: Professor of Social Policy, Univeristy of York
+  position: Professor of Social Policy,
+  affiliation: Univeristy of York
   photo: RuthPatrick.png
 
 - name: Sophie Howes
-  affiliation: Head of Policy, CPAG  
+  position: Head of Policy,
+  affiliation: CPAG  
   photo: SophieHowes.png
 

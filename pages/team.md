@@ -11,7 +11,7 @@ permalink: /about-us/team/
       <div class="team-member">
         <img src="/assets/img/{{ member.photo }}" alt="{{ member.name }}" class="team-photo">
         <h3 class="team-name">{{ member.name }}</h3>
-        <p class="team-affiliation">{{ member.affiliation }}</p>
+        <p class="team-affiliation">{{ member.position }}<br>{{ member.affiliation }}</p>
       </div>
     {% endfor %}
   </div>
