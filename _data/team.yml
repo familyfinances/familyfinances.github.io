@@ -1,5 +1,5 @@
 - name: Emma Tominey
-  affiliation: Academic, Univeristy of York
+  affiliation: Professor of Economics, Univeristy of York
   photo: EmmaTominey.jpg
 
 - name: John Dickie
@@ -7,11 +7,11 @@
   photo: JohnDickie.jpg
 
 - name: Kate Andersen
-  affiliation: Academic, University of York
+  affiliation: Research Fellow, University of York
   photo: KateAndersen.jpg
 
 - name: Kitty Stewart
-  affiliation: Acdemic, London School of Economics
+  affiliation: Professor of Social Policy, London School of Economics
   photo: kittystewart.png
 
 - name: Maria Marshall
@@ -19,7 +19,7 @@
   photo: MariaMarshall.jpg
 
 - name: Ruth Patrick
-  affiliation: Academic, Univeristy of York
+  affiliation: Professor of Social Policy, Univeristy of York
   photo: RuthPatrick.png
 
 - name: Sophie Howes
