@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "House of Lords Roundtable: The difference cash transfers to children can make"
+title: "Insights From: House of Lords Roundtable - The Difference Cash Transfers to Children Can Make"
 author: "Ilona Pinter and Suzanna Nesom"
 categories: events
 featured: latest event
