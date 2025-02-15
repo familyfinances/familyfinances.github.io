@@ -5,7 +5,7 @@ author: "Ilona Pinter and Suzanna Nesom"
 categories: events
 featured: latest event
 tags: [event, cash transfers, house of lords]
-image: lords.svg
+image: Lords.jpg
 ---
 **On 4th February 2025, we held a House of Lords Roundtable, hosted by Baroness Ruth Lister, to explore the impact of cash transfers to families with children.**
 
