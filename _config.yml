@@ -1,6 +1,6 @@
 # Site Build Settings
 repository: familyfinances/familyfinances.github.io.git
-url: "https://familyfinances.github.io"
+url: "https://familyfinances.study"
 future: true
 
 # jekyll-paginate configuration
