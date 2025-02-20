@@ -7,7 +7,7 @@ featured: latest event
 tags: [event, cash transfers, house of lords]
 image: Lords.jpg
 ---
-**On 4th February 2025, we held a House of Lords Roundtable, hosted by Baroness Ruth Lister, to explore the impact of cash transfers to families with children.**
+**On 4th February 2025, we held a House of Lords Roundtable, hosted by Baroness Ruth Lister, to explore the impact of cash transfers to families with children. The presentation from the event is available <a href="/assets/pdf/Slides - Family Finances - What difference does cast support for children make.pdf" target="_blank" rel="noopener noreferrer">here</a>.**
 
 ---
 The discussion took place in the context of the UK government’s development of a cross-departmental ten-year [Child Poverty Strategy](https://www.gov.uk/government/publications/tackling-child-poverty-developing-our-strategy/tackling-child-poverty-developing-our-strategy-html), due to be published in spring. This follows commitments in the [Labour manifesto](https://labour.org.uk/change/break-down-barriers-to-opportunity/) to ‘develop an ambitious strategy to reduce child poverty’ and to ‘end the mass dependence on emergency food parcels’. 
