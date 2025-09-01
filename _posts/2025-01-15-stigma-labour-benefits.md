@@ -3,7 +3,6 @@ layout: post
 title: "Stigma faced by benefit claimants is baseless. It's like Donald Trump saying immigrants eat pets"
 author: "Kate Andersen"
 categories: blog
-featured: latest blog
 tags: [welcome , family resources]
 image: kier_donald.webp
 ---

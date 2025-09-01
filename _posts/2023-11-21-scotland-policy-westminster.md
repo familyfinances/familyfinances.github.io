@@ -3,7 +3,6 @@ layout: post
 title: "What Scotland’s policies can teach Westminster about fighting poverty"
 author: "Ruth Patrick, Kate Andersen, Kitty Stewart and Emma Tominey"
 categories: blog
-featured: latest blog
 tags: [welcome , family resources]
 image: JeremyHunt.jpg
 ---
