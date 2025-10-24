@@ -5,6 +5,7 @@ category: contact
 permalink: /take-part/
 ---
 
-Watch this space! 
+We are still looking for research participants. The main criteria are that you need to be a parent living in Scotland receiving Universal Credit for at least one year who has at least one child in the household. We are especially interested in speaking to parents under the age of 25; those living in rural areas; and/or those in couples. 
 
-We will be looking to interview families in receipt of Scottish Child Payment in Scotland, and Universal Credit in England. 
+To find out more, email us on: <a href="mailto:family-finances-project@york.ac.uk">family-finances-project@york.ac.uk</a>
+
