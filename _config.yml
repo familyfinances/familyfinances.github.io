@@ -14,9 +14,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Family Finances"
-description:	      |
-                      A collaborative project between the University of Glasgow, University of York,
-                      the London School of Economics, and the Child Poverty Action Group.
+description:	       A collaborative project between the University of Glasgow, University of York,
+description2:        the London School of Economics, and the Child Poverty Action Group.
 author:              "family-finances"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
