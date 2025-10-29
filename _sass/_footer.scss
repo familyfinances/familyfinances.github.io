@@ -37,6 +37,8 @@
 }
 
 .footer-description a { 
+  line-height: 1.6;   /* try 1.4–1.8 */
+  display: inline-block;
   text-decoration: none;
 }
 
