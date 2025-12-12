@@ -3,7 +3,6 @@ layout: post
 title: "A Month of Family Finances: Exploring family spending through a digital diary tool"
 author: "Ilona Pinter"
 categories: blog
-featured: latest blog
 tags: [welcome , family resources]
 image: helena-lopes-C2WC2ZerF3s-unsplash.jpg
 ---

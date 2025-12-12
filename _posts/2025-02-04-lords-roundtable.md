@@ -3,7 +3,6 @@ layout: post
 title: "Insights From: House of Lords Roundtable - The Difference Cash Transfers to Children Can Make"
 author: "Ilona Pinter and Suzanna Nesom"
 categories: events
-featured: latest event
 tags: [event, cash transfers, house of lords]
 image: Lords.jpg
 ---
@@ -41,3 +40,5 @@ Aaron Reeves, also from the London School of Economics, critiqued the [two child
 During the Q&A discussion, there was widespread agreement that ensuring families have access to adequate resources cannot be delayed. It is critical not only for children’s present realities but also for their longer-term aspirations and outcomes. The discussion also reinforced that redistributive policies do not hinder, but can promote economic growth. As the UK government finalises its Child Poverty Strategy, the roundtable reinforced the importance of generating evidence to inform policy-making. 
 
 We are grateful to the abrdn Financial Fairness Trust, and the Cost of Living Research Group at the University of York for funding this event.
+
+
