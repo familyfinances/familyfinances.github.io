@@ -2,7 +2,6 @@
 layout: post
 title: "New findings on the difference that Scottish Child Payment makes to family finances and children’s well-being"
 author: "Ilona Pinter"
-featured: latest blog
 categories: blog
 tags: [welcome , family resources, Scottish child payment, child, wellbeing]
 image: sb1.png
