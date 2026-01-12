@@ -7,7 +7,6 @@ categories: blog
 tags: [welcome , Family Finances, Scottish Child Payment]
 image: micheile-henderson-unsplash.jpg
 ---
---- 
 Evidence from parents and carers clearly shows the Scottish Child Payment is improving lives for families, according to joint policy briefing produced in partnership with the Family Finances study and participants from [Changing Realities](https://changingrealities.org/) alongside Child Poverty Action Group (CPAG). 
 
 For many families, the experience of applying for and receiving the payment has been positive with parents saying they are treated ‘with respect and dignity.’ 
@@ -16,7 +15,7 @@ However, many parents are still struggling to get by despite this support, point
 
 The Scottish Government must now build on the progress made already by increasing the value of the payment and supporting families who currently miss out. The £155m that has become available and committed to tackling child poverty as a consequence of the abolition of the two-child limit should be used to invest in the Scottish Child Payment. 
 
-To read the full breifing, please see the download link below. 
+Download the full briefing below.
 
 <div class="info-box">
   <h3>Downloads</h3>
