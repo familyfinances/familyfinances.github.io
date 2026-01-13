@@ -7,7 +7,7 @@ categories: blog
 tags: [welcome , Family Finances, Scottish Child Payment]
 image: micheile-henderson-unsplash.jpg
 ---
-Evidence from parents and carers clearly shows the Scottish Child Payment is improving lives for families, according to joint policy briefing produced in partnership with the Family Finances study and participants from [Changing Realities](https://changingrealities.org/) alongside Child Poverty Action Group (CPAG). 
+Evidence from parents and carers clearly shows the Scottish Child Payment is improving lives for families, according to joint policy briefing produced in partnership with the Family Finances study and participants from [Changing Realities](https://changingrealities.org/). 
 
 For many families, the experience of applying for and receiving the payment has been positive with parents saying they are treated ‘with respect and dignity.’ 
 
