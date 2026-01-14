@@ -16,8 +16,8 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
  - {icon: 'envelope',  type: solid,   link:   'mailto:family-finances-project@york.ac.uk'}
- - {icon: 'x-twitter', type: brands,  link:   'https://twitter.com/'}
- - {icon: 'bluesky',   type: brands,  link:   'https://bsky.app/'}
+ #- {icon: 'x-twitter', type: brands,  link:   'https://twitter.com/'}
+ #- {icon: 'bluesky',   type: brands,  link:   'https://bsky.app/'}
 # - {icon: 'bluesky', link:    'https://bsky.app/'}
 # - {icon: 'facebook', link:   'https://www.facebook.com/'}
 # - {icon: 'instagram', link:  'https://instagram.com/'}
