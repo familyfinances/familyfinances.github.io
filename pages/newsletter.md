@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Take Part
+title: Newsletter
 category: contact
-permalink: /take-part/
+permalink: /newsletter/
 ---
 
 **Family Finances Monthly Newsletter**
