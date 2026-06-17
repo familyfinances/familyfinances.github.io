@@ -5,7 +5,7 @@ author: "Kate Andersen, Suzanna Nesom, Ruth Patrick, Ilona Pinter, Kitty Stewart
 categories: publications
 featured: latest publication
 tags: [publications, family resources, Scottish child payment, child, wellbeing]
-image: sb2.jpg
+image: pexels-tara-winstead-6692939.jpg
 ---
 
 ## Examining the impact of the Scottish Child Payment in comparative perspective
@@ -38,3 +38,4 @@ The report considers what the Scottish and UK Governments can learn from these f
     Open or download the full findings report
   </a>
 </p>
+*Image credit: Tara Winstead (Pexels)*

@@ -5,7 +5,7 @@ author: "Kate Andersen, Suzanna Nesom, Ruth Patrick, Ilona Pinter, Kitty Stewart
 categories: publications
 featured: latest publication
 tags: [publications, family resources, Scottish child payment, child, wellbeing]
-image: sb2.jpg
+image: pexels-tara-winstead-6692939.jpg
 ---
 
 ## Findings from the Family Finances study
@@ -40,3 +40,4 @@ The findings show that the payment has improved children’s living standards, r
     Open or download the policy briefing
   </a>
 </p>
+*Image credit: Tara Winstead (Pexels)*
