@@ -2,9 +2,9 @@
 layout: publications
 title: "Policy Briefing: What difference does the Scottish Child Payment make?"
 author: "Kate Andersen, Suzanna Nesom, Ruth Patrick, Ilona Pinter, Kitty Stewart and Emma Tominey"
-###categories: publications
-###featured: latest publication
-###tags: [publications, family resources, Scottish child payment, child, wellbeing]
+categories: publications
+featured: latest publication
+tags: [publications, family resources, Scottish child payment, child, wellbeing]
 image: sb2.jpg
 ---
 

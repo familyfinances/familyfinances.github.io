@@ -2,9 +2,9 @@
 layout: publications
 title: "Findings Report: What difference does targeted cash support make for families on a low income?"
 author: "Kate Andersen, Suzanna Nesom, Ruth Patrick, Ilona Pinter, Kitty Stewart and Emma Tominey"
-##categories: publications
-##featured: latest publication
-###tags: [publications, family resources, Scottish child payment, child, wellbeing]
+categories: publications
+featured: latest publication
+tags: [publications, family resources, Scottish child payment, child, wellbeing]
 image: sb2.jpg
 ---
 
